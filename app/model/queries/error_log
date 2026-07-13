@@ -1,0 +1,57 @@
+[25-Mar-2026 20:39:26 America/Monterrey] PHP Warning:  Undefined array key "origen" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 22
+[01-Apr-2026 17:05:14 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[02-Apr-2026 05:52:05 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[02-Apr-2026 11:46:00 America/Monterrey] PHP Warning:  Undefined array key "origen" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 22
+[06-Apr-2026 21:00:27 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[06-Apr-2026 21:23:12 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[12-Apr-2026 05:26:37 America/Monterrey] PHP Warning:  Undefined array key "origen" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 22
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/lib/config.php on line 4
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key "pagina_yahualica" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key 1 in /home1/omnibusg/public_html/lib/self/self_ncrptcn.php on line 157
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key "pagina_yahualica" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 11
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 11
+[20-Apr-2026 11:18:02 America/Mexico_City] PHP Warning:  Undefined array key 1 in /home1/omnibusg/public_html/lib/self/self_ncrptcn.php on line 157
+[23-Apr-2026 18:10:58 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[02-May-2026 12:59:27 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[02-May-2026 12:59:49 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[02-May-2026 18:26:56 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[08-May-2026 17:46:13 America/Mexico_City] PHP Warning:  include_once(/home1/omnibusg/public_html/pagina_yahualica/lib/config.php): Failed to open stream: No such file or directory in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[08-May-2026 17:46:13 America/Mexico_City] PHP Warning:  include_once(): Failed opening '/home1/omnibusg/public_html/pagina_yahualica/lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php85/root/usr/share/pear') in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[08-May-2026 17:46:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function campo_limpiado() in /home1/omnibusg/public_html/app/model/queries/corridas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[08-May-2026 17:47:34 America/Mexico_City] PHP Warning:  include_once(/home1/omnibusg/public_html/pagina_yahualica/lib/config.php): Failed to open stream: No such file or directory in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[08-May-2026 17:47:34 America/Mexico_City] PHP Warning:  include_once(): Failed opening '/home1/omnibusg/public_html/pagina_yahualica/lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php85/root/usr/share/pear') in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[08-May-2026 17:47:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function campo_limpiado() in /home1/omnibusg/public_html/app/model/queries/corridas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[10-May-2026 13:55:52 America/Monterrey] PHP Warning:  Undefined array key "origen" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 22
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  include_once(/home1/omnibusg/public_html/pagina_yahualica/lib/config.php): Failed to open stream: No such file or directory in /home1/omnibusg/public_html/app/model/queries/asientos.php on line 8
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  include_once(): Failed opening '/home1/omnibusg/public_html/pagina_yahualica/lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php85/root/usr/share/pear') in /home1/omnibusg/public_html/app/model/queries/asientos.php on line 8
+[10-May-2026 14:09:52 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home1/omnibusg/public_html/app/model/queries/asientos.php:49
+Stack trace:
+#0 /home1/omnibusg/public_html/app/model/queries/asientos.php(49): number_format('', 0)
+#1 {main}
+  thrown in /home1/omnibusg/public_html/app/model/queries/asientos.php on line 49
+[16-May-2026 14:01:18 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[05-Jun-2026 21:17:24 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[05-Jun-2026 21:18:46 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[09-Jun-2026 08:19:26 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[09-Jun-2026 08:19:34 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[14-Jun-2026 11:43:38 America/Monterrey] PHP Warning:  Undefined array key "destino" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 25
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 8
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/lib/config.php on line 4
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key "pagina_yahualica" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 10
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key 1 in /home1/omnibusg/public_html/lib/self/self_ncrptcn.php on line 157
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key "pagina_yahualica" in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 11
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 11
+[19-Jun-2026 17:47:36 America/Mexico_City] PHP Warning:  Undefined array key 1 in /home1/omnibusg/public_html/lib/self/self_ncrptcn.php on line 157
+[19-Jun-2026 17:47:36 America/Monterrey] PHP Fatal error:  Uncaught Error: Call to undefined function genera_corridas() in /home1/omnibusg/public_html/app/model/queries/corridas.php:52
+Stack trace:
+#0 {main}
+  thrown in /home1/omnibusg/public_html/app/model/queries/corridas.php on line 52

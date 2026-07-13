@@ -1,0 +1,7 @@
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/app/model/update/agregar_pasajero.php on line 8
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Undefined array key "ubi" in /home1/omnibusg/public_html/lib/config.php on line 4
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Undefined array key "oyg_vb" in /home1/omnibusg/public_html/app/model/update/agregar_pasajero.php on line 14
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/update/agregar_pasajero.php on line 14
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Undefined array key 1 in /home1/omnibusg/public_html/lib/self/self_ncrptcn.php on line 157
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Undefined array key "oyg_vb" in /home1/omnibusg/public_html/app/model/update/agregar_pasajero.php on line 15
+[10-May-2026 14:09:52 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home1/omnibusg/public_html/app/model/update/agregar_pasajero.php on line 15
