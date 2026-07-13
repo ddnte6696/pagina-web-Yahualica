@@ -1,0 +1,142 @@
+.nav-item {
+  /* background: linear-gradient(to bottom right, #ffffff 0%, #ff99cc 100%); */
+  /* Comentado: Aplica un degradado de color de blanco a rosa desde la esquina superior izquierda a la esquina inferior derecha del fondo del elemento. */
+
+  /* Borde inferior */
+    border-bottom-width: 3px; /* Establece el ancho del borde inferior en 3 píxeles. */
+    border-bottom-color: #3B1222; /* Define el color del borde inferior con el código hexadecimal #3B1222, un tono oscuro. */
+    border-bottom-style: solid; /* Establece el estilo del borde inferior como sólido. */
+
+  /* Borde derecho */
+    border-right-width: 1px; /* Establece el ancho del borde derecho en 1 píxel. */
+    border-right-color: #3B1222; /* Define el color del borde derecho con el mismo tono oscuro #3B1222. */
+    border-right-style: solid; /* Establece el estilo del borde derecho como sólido. */
+
+  /* Texto interior */
+    font-weight: bold; /* Hace que el texto dentro del elemento sea negrita. */
+    color: black; /* Define el color del texto como negro. */
+
+  /* */
+}
+/* Estilo del texto de los items */
+.nav-link { 
+  color: black; /* Define el color del texto de los elementos con la clase .nav-link como negro. */
+}
+
+.link-text { 
+  color: black; /* Define el color del texto de los elementos con la clase .link-text como negro. */
+}
+
+/* Estilo cuando el ratón pasa sobre los enlaces de navegación */
+.nav-link:hover { 
+  color: black; /* Cambia el color del texto de los enlaces de navegación a negro cuando se pasa el ratón sobre ellos. */
+}
+
+/* Estilo cuando el ratón pasa sobre los items de navegación */
+.nav-item:hover {
+  background: linear-gradient(to bottom right, #ffffff 0%, #ff99cc 100%); /* Aplica un degradado de fondo de blanco a rosa desde la esquina superior izquierda a la esquina inferior derecha cuando se pasa el ratón sobre el item. */
+  opacity: 100%; /* Establece la opacidad del elemento en 100%, asegurando que sea completamente opaco (sin transparencia). */
+  color: black; /* Cambia el color del texto del item de navegación a negro cuando se pasa el ratón sobre él. */
+}
+
+nav.navbar {
+  background: #C8C8C8; /* Establece el color de fondo del elemento <nav> con la clase .navbar a un tono gris claro (#C8C8C8). */
+}
+
+.navbar-toggler {
+  background-color: #FBB900; /* Establece el color de fondo del botón de toggling de la barra de navegación a un tono amarillo (#FBB900). */
+  opacity: 100%; /* Asegura que el botón sea completamente opaco, sin transparencia. */
+  color: #3A1220; /* Define el color del texto dentro del botón como un tono oscuro (#3A1220). */
+}
+
+.footer-gradient {
+  background: linear-gradient(to bottom right, #ffffff 0%, #ff99cc 100%); /* Aplica un degradado de fondo que va de blanco (#ffffff) en la esquina superior izquierda a rosa (#ff99cc) en la esquina inferior derecha para el elemento con la clase .footer-gradient. */
+}
+
+.header-gradient {
+  background: linear-gradient(to bottom right, #ffffff 0%, #ffff00 100%); /* Aplica un degradado de fondo que va de blanco (#ffffff) en la esquina superior izquierda a amarillo (#ffff00) en la esquina inferior derecha para el elemento con la clase .header-gradient. */
+}
+
+.red_yahua {
+  color: white;
+  background: #3B1222; /* Establece el color de fondo a un tono oscuro (#3B1222) para el elemento con la clase .red_yahua. */
+  height: 50px; /* Define la altura del elemento como 50 píxeles. */
+}
+.red_yahua a {
+  color: white; /* Define el color del texto de los enlaces dentro del elemento .red_yahua como blanco. */
+}
+
+.img-taquilla {
+  height: 250px; /* Establece la altura de las imágenes con la clase .img-taquilla en 250 píxeles. */
+  padding-bottom: 5px; /* Agrega un espacio de 50 píxeles en la parte inferior del elemento. */
+}
+
+.car-body-taquilla {
+  height: 150px; /* Establece la altura del elemento en 150 píxeles. */
+  /* Borde superior */
+    border-top-width: 1px; /* Establece el ancho del borde superior en 3 píxeles. */
+    border-top-color: #3B1222; /* Define el color del borde superior con el código hexadecimal #3B1222, un tono oscuro. */
+    border-top-style: solid; /* Establece el estilo del borde superior como sólido. */
+
+  /* Borde derecho */
+    border-right-width: 1px; /* Establece el ancho del borde derecho en 3 píxel. */
+    border-right-color: #3B1222; /* Define el color del borde derecho con el mismo tono oscuro #3B1222. */
+    border-right-style: solid; /* Establece el estilo del borde derecho como sólido. */
+
+  /* Borde izquierdo */
+    border-left-width: 1px; /* Establece el ancho del borde izquierdo en 3 píxel. */
+    border-left-color: #3B1222; /* Define el color del borde izquierdo con el mismo tono oscuro #3B1222. */
+    border-left-style: solid; /* Establece el estilo del borde izquierdo como sólido. */
+}
+
+.card-taquilla{
+  padding-bottom: 25px; /* Agrega un espacio de 50 píxeles en la parte inferior del elemento. */
+}
+.carousel-item img {
+  height: 600px; /* Fija la altura de las imágenes */
+  object-fit: cover; /* Asegura que las imágenes cubran todo el contenedor */
+  width: 100%; /* Asegura que las imágenes ocupen todo el ancho del contenedor */
+}
+
+.overlay-text {
+  position: absolute; /* Posiciona el elemento de forma absoluta respecto al contenedor padre con posición relativa. */
+  top: 50%;           /* Mueve el elemento 50% hacia abajo desde la parte superior del contenedor. */
+  left: 50%;          /* Mueve el elemento 50% hacia la derecha desde el borde izquierdo del contenedor. */
+  transform: translate(-50%, -50%); /* Ajusta la posición para centrar el elemento exactamente en el medio del contenedor, tanto horizontal como verticalmente. */
+  color: white;       /* Cambia el color del texto a blanco. */
+  z-index: 10;        /* Establece la pila de capas, asegurando que este texto esté por encima de otros elementos en la página. */
+  text-align: center; /* Centra el texto dentro del elemento. */
+}
+
+.carousel-item img {
+  filter: brightness(0.5); /* Aplica un filtro de brillo a la imagen, reduciendo su brillo al 50% del valor original. */
+}
+
+.font-times {
+  padding-top: 50px; /* Agrega un espacio de 50 píxeles en la parte superior del elemento. */
+  padding-bottom: 50px; /* Agrega un espacio de 50 píxeles en la parte inferior del elemento. */
+  font-family: 'Georgia', 'Times New Roman', Times, serif; /* Aplica una fuente similar a Times New Roman, utilizando primero 'Georgia' si está disponible. */
+  font-size: 60px; /* Establece el tamaño de la fuente en 60 píxeles. */
+}
+
+.background-div {
+  width: 100%; /* Define el ancho del div (puedes ajustar según sea necesario) */
+  height: auto; /* Define la altura del div (ajusta según sea necesario) */
+  background-image: url('../img/camiones/CM_2.jpg'); /* URL de la imagen de fondo */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el div */
+  background-position: center; /* Centra la imagen en el div */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+.form-boletos{
+  padding-bottom: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  background-color: rgba(0, 0, 0, 0.5); /* Color de fondo negro con 50% de opacidad */
+  /*padding: 20px; /* Espacio interior para el contenido del div */
+  color: white; /* Color del texto dentro del div */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Opcional: agrega una sombra suave para mejorar la visibilidad */
+}
